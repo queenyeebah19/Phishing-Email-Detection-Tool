@@ -1,2 +1,7 @@
 # Phishing-Email-Detection-Tool
-A beginner cybersecurity project that detects phishing emails using Python.
+Project Topic
+Tools Used
+Features
+How to Run the Project
+Screenshots
+Outcome
