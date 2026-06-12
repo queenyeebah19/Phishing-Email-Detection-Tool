@@ -1,7 +1,31 @@
-#Phishing-Email-Detection-Tool
-Project Topic
+ Features
+- Detects phishing-related keywords
+- Assigns risk levels (Low, Medium, High)
+- Simple command-line interface
+- Beginner-friendly cybersecurity project
+- Built with Python
+
 Tools Used
-Features
-How to Run the Project
-Screenshots
-Outcome
+
+- Python 3
+- VS Code
+- GitHub
+
+Sample Workflow
+
+Input
+
+Urgent! Your account has been suspended.
+Click here to verify your account.
+
+ Output
+
+Risk Level: HIGH
+Indicators Found: 3
+
+Skills Demonstrated
+
+- Python Programming
+- Cybersecurity Fundamentals
+- Threat Detection
+- GitHub Version Control
